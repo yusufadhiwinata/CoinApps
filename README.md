@@ -4,3 +4,5 @@
 -MVVM Architecture
 -Use Case
 -Dagger hilt
+-Retrofit
+
