@@ -1,5 +1,4 @@
-# CoinApps
-Coin Apps With PAPRIKA API
+# CoinApps with Jetpack Compose
 
 -Jetpack Compose
 -MVVM Architecture
